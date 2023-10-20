@@ -1,4 +1,4 @@
-# ReactQuery_useQuery_Decription
+# ReactQuery Hook을 사용하기 위한 설명서를 만들었습니다.
 
 ## useSelectQuery
 단순하게 CRUD 중에 R 만을 담당합니다. api 요청을 해서 조회할 때 사용하는 HooK
